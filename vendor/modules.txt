@@ -1,0 +1,8 @@
+# github.com/opencontainers/runc v1.1.4
+## explicit; go 1.16
+github.com/opencontainers/runc/libcontainer/system
+github.com/opencontainers/runc/libcontainer/user
+# golang.org/x/sys v0.0.0-20220907062415-87db552b00fd
+## explicit; go 1.17
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
